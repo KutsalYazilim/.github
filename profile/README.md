@@ -1,7 +1,7 @@
 # 👼 Kutsal Yazılım | Geleceği Kodluyoruz
 
 <p align="center">
-  <img src="../logo.png" width="300" alt="Kutsal Yazılım Logo">
+  <img src="../TPlogo.png" width="300" alt="Kutsal Yazılım Logo">
 </p>
 
 ## 🚀 Hakkımızda
